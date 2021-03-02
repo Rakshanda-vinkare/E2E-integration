@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="118272" started-at="2021-03-01T09:09:52Z" finished-at="2021-03-01T09:11:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="118272" started-at="2021-03-01T09:09:52Z" finished-at="2021-03-01T09:11:51Z">
+      <class name="TestCases.PageLoadTime">
+        <test-method status="PASS" signature="Pageload()[pri:0, instance:TestCases.PageLoadTime@4b9e13df]" name="Pageload" duration-ms="49917" started-at="2021-03-01T14:41:01Z" finished-at="2021-03-01T14:41:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pageload -->
+      </class> <!-- TestCases.PageLoadTime -->
+      <class name="TestCases.LoginORHM">
+        <test-method status="PASS" signature="login()[pri:0, instance:TestCases.LoginORHM@8bd1b6a]" name="login" duration-ms="68306" started-at="2021-03-01T14:39:52Z" finished-at="2021-03-01T14:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- TestCases.LoginORHM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
